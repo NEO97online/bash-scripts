@@ -1,11 +1,11 @@
 # Michael's Bash Scripts
 
-### ot
+### [ot](https://github.com/michaelauderer/bash-scripts/blob/master/bin/ot)
 
-Opens `NUM` rxvt-unicode terminals to the same directory, `DIR`.
+Opens `NUM` terminals to the same directory, `DIR`. Uses the `rxvt-unicode` terminal.
 
 ```sh
 $ ot <NUM> <DIR>
 ```
 
-[ot script](https://github.com/michaelauderer/bash-scripts/blob/master/bin/ot)
+
