@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # ot - Open Terminals
-# Opens a number of terminals (rxvt-unicode) to a directory.
+# Opens a number of terminals to the same directory. Uses rxvt-unicode.
 # Usage: ot 3 ~/code/myproject 
 
 NUM=$1 # number of terminals to open
