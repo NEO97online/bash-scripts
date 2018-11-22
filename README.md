@@ -1,6 +1,6 @@
 # Michael's Bash Scripts
 
-### Open Terminals
+### ot
 
 Opens `NUM` terminals to the same directory, `DIR`.
 
